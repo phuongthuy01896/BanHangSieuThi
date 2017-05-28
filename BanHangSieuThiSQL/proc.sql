@@ -8,11 +8,18 @@ else insert into nhanvien (maNV,tenNV,GT,SDT,diachi)
 	values (@manv,@tennv,@gt,@sdt,@diachi)
 end
 --thêm KH
-create proc themkh @makh varchar(20),@tenkh nvarchar(50), @gt nvarchar(5), @diachi nvarchar(50), @sdt char(15),@CMTND nchar(20)
+alter proc themkh @tenkh nvarchar(50), @gt nvarchar(5), @diachi nvarchar(50), @sdt char(15),@CMTND nchar(20)
 as
 begin
 insert into khachhang (maKH,tenKH,GT,SDT,diachi,CMTND)
-	values (@makh,@tenkh,@gt,@sdt,@diachi,@CMTND)
+	values ('',@tenkh,@gt,@sdt,@diachi,@CMTND)
+end
+--proc xoa kh
+create proc xoakh @makh varchar(20)
+as
+begin
+update hoadonban set maKH=null where maKH=@makh
+delete khachhang where maKH=@makh
 end
 --thêm hóa đơn
 create proc themhoadon @maKH varchar(20), @ngayban datetime, @tongtien int, @maNV varchar(20)
