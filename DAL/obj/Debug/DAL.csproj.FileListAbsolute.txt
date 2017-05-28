@@ -1,0 +1,20 @@
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\obj\Debug\DAL.Properties.Resources.resources
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\bin\Debug\DAL.exe.config
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\bin\Debug\DAL.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\bin\Debug\DAL.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\bin\Debug\Entitys.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\bin\Debug\Entitys.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\obj\Debug\DAL.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\DAL\obj\Debug\DAL.pdb
+E:\Github\BanHangSieuThi\DAL\bin\Debug\DAL.exe.config
+E:\Github\BanHangSieuThi\DAL\bin\Debug\DAL.exe
+E:\Github\BanHangSieuThi\DAL\bin\Debug\DAL.pdb
+E:\Github\BanHangSieuThi\DAL\bin\Debug\Entitys.exe
+E:\Github\BanHangSieuThi\DAL\bin\Debug\Entitys.pdb
+E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.Properties.Resources.resources
+E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.exe
+E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.pdb

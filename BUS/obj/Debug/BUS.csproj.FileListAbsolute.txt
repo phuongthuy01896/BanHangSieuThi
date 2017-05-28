@@ -1,0 +1,24 @@
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\obj\Debug\BUS.Properties.Resources.resources
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\bin\Debug\BUS.exe.config
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\bin\Debug\BUS.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\bin\Debug\BUS.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\bin\Debug\DAL.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\bin\Debug\Entitys.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\bin\Debug\DAL.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\bin\Debug\Entitys.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\obj\Debug\BUS.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\BUS\obj\Debug\BUS.pdb
+E:\Github\BanHangSieuThi\BUS\bin\Debug\BUS.exe.config
+E:\Github\BanHangSieuThi\BUS\bin\Debug\BUS.exe
+E:\Github\BanHangSieuThi\BUS\bin\Debug\BUS.pdb
+E:\Github\BanHangSieuThi\BUS\bin\Debug\DAL.exe
+E:\Github\BanHangSieuThi\BUS\bin\Debug\Entitys.exe
+E:\Github\BanHangSieuThi\BUS\bin\Debug\DAL.pdb
+E:\Github\BanHangSieuThi\BUS\bin\Debug\Entitys.pdb
+E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.exe
+E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.pdb

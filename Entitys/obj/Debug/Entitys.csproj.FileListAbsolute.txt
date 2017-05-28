@@ -1,0 +1,16 @@
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\Entitys\obj\Debug\Entitys.csprojResolveAssemblyReference.cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\Entitys\obj\Debug\Entitys.Properties.Resources.resources
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\Entitys\obj\Debug\Entitys.csproj.GenerateResource.Cache
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\Entitys\bin\Debug\Entitys.exe.config
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\Entitys\bin\Debug\Entitys.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\Entitys\bin\Debug\Entitys.pdb
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\Entitys\obj\Debug\Entitys.exe
+c:\users\quynh huong\documents\visual studio 2015\Projects\BanHangSieuThi\Entitys\obj\Debug\Entitys.pdb
+E:\Github\BanHangSieuThi\Entitys\bin\Debug\Entitys.exe.config
+E:\Github\BanHangSieuThi\Entitys\bin\Debug\Entitys.exe
+E:\Github\BanHangSieuThi\Entitys\bin\Debug\Entitys.pdb
+E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.csprojResolveAssemblyReference.cache
+E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.Properties.Resources.resources
+E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.csproj.GenerateResource.Cache
+E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.exe
+E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.pdb
