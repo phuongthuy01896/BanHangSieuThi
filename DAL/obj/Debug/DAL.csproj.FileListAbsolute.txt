@@ -18,3 +18,13 @@ E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.Properties.Resources.resources
 E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
 E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.exe
 E:\Github\BanHangSieuThi\DAL\obj\Debug\DAL.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\bin\Debug\DAL.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\bin\Debug\DAL.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\bin\Debug\DAL.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\bin\Debug\Entitys.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\bin\Debug\Entitys.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\obj\Debug\DAL.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\DAL\obj\Debug\DAL.pdb

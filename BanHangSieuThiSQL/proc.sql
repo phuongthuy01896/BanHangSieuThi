@@ -14,13 +14,6 @@ begin
 insert into khachhang (maKH,tenKH,GT,SDT,diachi,CMTND)
 	values ('',@tenkh,@gt,@sdt,@diachi,@CMTND)
 end
---proc xoa kh
-create proc xoakh @makh varchar(20)
-as
-begin
-update hoadonban set maKH=null where maKH=@makh
-delete khachhang where maKH=@makh
-end
 --thêm hóa đơn
 create proc themhoadon @maKH varchar(20), @ngayban datetime, @tongtien int, @maNV varchar(20)
 as
@@ -30,18 +23,14 @@ insert into hoadonban(maHDB,maKH,ngayban,tongtien,maNV)
 end
 delete chitietphieunhap where mapn='PN01' and tencc='B' and maLH='LH02' and tenSP='Khủng long mini'
 --thêm chi tiết hóa đơn
-create proc themchitiet @maHDB varchar(20), @maSP varchar(20), @soluong int, @dongia int, @thanhtien int
+alter proc themchitiet @maHDB varchar(20), @maSP varchar(20), @soluong int, @dongia int, @thanhtien int
 as
 begin
 select @dongia=giaban from sanpham where maSP=@maSP
 insert into chitiethoadon values(@maHDB,@maSP,@soluong,@dongia,@thanhtien)
+update sanpham set soluong=soluong-@soluong where maSP=@maSP
 end
---thanh toán
-create proc thanhtoan @maHDB varchar(20)
-as
-begin
-update sanpham set soluong=soluong-(select soluong from chitiethoadon where sanpham.maSP=chitiethoadon.maSP and maHDB=@maHDB)
-end
+
 --trigger mã kh tự tăng
 CREATE TRIGGER themkhachhang
 ON khachhang
@@ -142,9 +131,15 @@ SET @NEW_ID = 'HDB'+
 UPDATE hoadonban SET maHDB = @NEW_ID WHERE maHDB = @OLD_ID
 END
 --proc themuser
-alter proc themuser @username varchar(20), @pass varchar(20)
+create proc themuser @username varchar(20), @pass varchar(20)
 as
 begin
 insert into dangnhap values(@username,@pass)
 end   
-themuser 'admin','admin'
+--proc xoa kh
+create proc xoakh @makh varchar(20)
+as
+begin
+update hoadonban set maKH=null where maKH=@makh
+delete khachhang where maKH=@makh
+end

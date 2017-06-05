@@ -213,7 +213,6 @@ namespace BanHangSieuThi
 
         private void btnthanhtoan_Click(object sender, EventArgs e)
         {
-            kn.ThucThiCauLenhSQL("thanhtoan'" + txtmahd.Text + "'");
             MessageBox.Show("Đã thanh toán!");
             kn.ThucThiCauLenhSQL("update hoadonban set tongtien='" + txtTongTien.Text + "' where maHDB='" + txtmahd.Text + "'");
             khoadieukien();

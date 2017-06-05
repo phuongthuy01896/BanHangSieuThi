@@ -22,3 +22,15 @@ E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.Properties.Resources.resources
 E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
 E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.exe
 E:\Github\BanHangSieuThi\BUS\obj\Debug\BUS.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\bin\Debug\BUS.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\bin\Debug\BUS.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\bin\Debug\BUS.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\bin\Debug\DAL.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\bin\Debug\Entitys.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\bin\Debug\DAL.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\bin\Debug\Entitys.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\obj\Debug\BUS.csproj.GenerateResource.Cache
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\obj\Debug\BUS.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\BUS\obj\Debug\BUS.pdb

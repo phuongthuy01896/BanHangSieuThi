@@ -14,3 +14,11 @@ E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.Properties.Resources.resource
 E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.csproj.GenerateResource.Cache
 E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.exe
 E:\Github\BanHangSieuThi\Entitys\obj\Debug\Entitys.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\Entitys\bin\Debug\Entitys.exe.config
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\Entitys\bin\Debug\Entitys.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\Entitys\bin\Debug\Entitys.pdb
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\Entitys\obj\Debug\Entitys.csprojResolveAssemblyReference.cache
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\Entitys\obj\Debug\Entitys.Properties.Resources.resources
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\Entitys\obj\Debug\Entitys.csproj.GenerateResource.Cache
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\Entitys\obj\Debug\Entitys.exe
+C:\Users\Quynh Huong\Documents\GitHub\BanHangSieuThi\Entitys\obj\Debug\Entitys.pdb
